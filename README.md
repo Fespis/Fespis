@@ -1,5 +1,7 @@
 ### Hello👋 My name is Nikita, I'am a beginner front-end developer!
 
+
+
 ### Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5&logoColor=e96228)
@@ -10,6 +12,8 @@
 ![REACT](https://img.shields.io/badge/-REACT-000?style=for-the-badge&logo=React)
 ![GIT](https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=Git)
 ![Visual_Studio](https://img.shields.io/badge/-Visual_Studio_Code-000?style=for-the-badge&logo=VisualStudioCode&logoColor=6a78ff)
+
+
 
 ### You can contact me:
 
