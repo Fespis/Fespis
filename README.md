@@ -11,6 +11,16 @@
 ![GIT](https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=Git)
 ![Visual_Studio](https://img.shields.io/badge/-Visual_Studio_Code-000?style=for-the-badge&logo=VisualStudioCode&logoColor=6a78ff)
 
+### You can contact me:
+
+[<img align="left" alt="Telegram" width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png"/>][telegram]
+[<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/512/145/145813.png"/>][vk]
+[<img align="left" alt="LinkedIn" width="26px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1656355974~hmac=63fd3e915f2f602779129a16715eaea6"/>][linkedin]
+
+[telegram]: https://t.me/Fespis
+[vk]: https://vk.com/ablo4k0_o07
+[linkedin]: https://www.linkedin.com/in/nikita-zhuk-a0032723b/
+
 <!--
 **Fespis/Fespis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
