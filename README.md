@@ -16,10 +16,12 @@
 [<img align="left" alt="Telegram" width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png"/>][telegram]
 [<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/512/145/145813.png"/>][vk]
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1656355974~hmac=63fd3e915f2f602779129a16715eaea6"/>][linkedin]
+[<img align="left" alt="Codewars" width="300px" src="https://www.codewars.com/users/Fespis/badges/large"/>][Codewars]
 
 [telegram]: https://t.me/Fespis
 [vk]: https://vk.com/ablo4k0_o07
 [linkedin]: https://www.linkedin.com/in/nikita-zhuk-a0032723b/
+[Codewars]: https://www.codewars.com/users/Fespis
 
 <!--
 **Fespis/Fespis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
