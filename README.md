@@ -18,7 +18,7 @@
 ## My projects:
 
 ### 1. [Temper](https://react-project-management-system-team7.netlify.app/) (Team Project Management App)
-### 2. [Christmas-task](https://christmas-rsschool-fespis.netlify.app/) (Famous Paintings Quiz)
+### 2. [Christmas-task](https://christmas-rsschool-fespis.netlify.app/) (Christmas Game)
 ### 3. [Art-Quiz](https://art-quiz-rsschool-fespis.netlify.app/) (Famous Paintings Quiz)
 ### 4. [Momentum](https://momentum-rsschool-fespis.netlify.app/) (Site For Tracking The Weather In Any City )
 
