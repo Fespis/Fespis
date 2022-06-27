@@ -19,8 +19,8 @@
 
 ### 1. [Temper](https://react-project-management-system-team7.netlify.app/) (Team Project Management App)
 ### 2. [Christmas-task](https://christmas-rsschool-fespis.netlify.app/) (Famous Paintings Quiz)
-### 3. [Art-Quiz](https://art-quiz-rsschool-fespis.netlify.app/) (Team project management app)
-### 4. [Momentum](https://momentum-rsschool-fespis.netlify.app/) (Team project management app)
+### 3. [Art-Quiz](https://art-quiz-rsschool-fespis.netlify.app/) (Famous Paintings Quiz)
+### 4. [Momentum](https://momentum-rsschool-fespis.netlify.app/) (Site For Tracking The Weather In Any City )
 
 
 
