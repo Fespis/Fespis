@@ -1,8 +1,8 @@
-### Hello👋 My name is Nikita, I'am a beginner front-end developer!
+# Hello👋 My name is Nikita, I'am a beginner front-end developer!
 
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5&logoColor=e96228)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=264de4)
@@ -15,7 +15,7 @@
 
 
 
-### My projects:
+## My projects:
 
 ### 1. [Temper](https://react-project-management-system-team7.netlify.app/)
 ### 2. [Christmas-task](https://christmas-rsschool-fespis.netlify.app/)
@@ -24,7 +24,7 @@
 
 
 
-### You can contact me:
+## You can contact me:
 
 [<img align="left" alt="Telegram" width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png"/>][telegram]
 [<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/512/145/145813.png"/>][vk]
