@@ -17,7 +17,7 @@
 
 ## My projects:
 
-### 1. [Temper](https://react-project-management-system-team7.netlify.app/) Team project management systems
+### 1. [Temper](https://react-project-management-system-team7.netlify.app/) (Team project management app)
 ### 2. [Christmas-task](https://christmas-rsschool-fespis.netlify.app/)
 ### 3. [Art-Quiz](https://art-quiz-rsschool-fespis.netlify.app/)
 ### 4. [Momentum](https://momentum-rsschool-fespis.netlify.app/)
