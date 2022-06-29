@@ -23,11 +23,11 @@
 ## My projects:
 
 ### 1. [Temper](https://react-project-management-system-team7.netlify.app/) (Team Project Management App)<br>
-Technology stack: React, TypeScript
+Technology stack: React, React Query, Redux Toolkit, TypeScript, Material-UI
 ### 2. [Christmas-task](https://christmas-rsschool-fespis.netlify.app/) (Christmas Game)
-Technology stack: HTML, CSS, TypeScript
+Technology stack: HTML, CSS, TypeScript, WebPack
 ### 3. [Art-Quiz](https://art-quiz-rsschool-fespis.netlify.app/) (Famous Paintings Quiz)
-Technology stack: HTML, CSS, JavaScript
+Technology stack: HTML, CSS, JavaScript, WebPack
 ### 4. [Momentum](https://momentum-rsschool-fespis.netlify.app/) (Site For Tracking The Weather In Any City )
 Technology stack: HTML, CSS, JavaScript
 
