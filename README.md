@@ -1,5 +1,10 @@
-# Hello👋, I'am a beginner front-end developer!
+## Hello👋, I'am Nikita
 
+
+## I'am a beginner front-end developer!
+- I like to write code 💻
+- I like to swim 🏊 and play computer games 🎮 
+- I like to learn something new in programming 🎓
 
 
 ## Languages and Tools:
