@@ -41,12 +41,19 @@ HTML, CSS, TypeScript, WebPack
 ### 3. [Art-Quiz](https://art-quiz-rsschool-fespis.netlify.app/) (Famous Paintings Quiz)
 #### Description:<br>
 This is a quiz in which you need to guess the author of various paintings<br>
-The game has settings where you can adjust the parameters of your quiz<br>
+The game has settings where you can set the parameters of your quiz<br>
 You can view the history of your correct and incorrect answers after completing one of the quiz
 #### Technology stack:<br>
 HTML, CSS, JavaScript, WebPack
+
 ### 4. [Momentum](https://momentum-rsschool-fespis.netlify.app/) (Site For Tracking The Weather In Any City )
-Technology stack: HTML, CSS, JavaScript
+#### Description:<br>
+This is a site that tracks the current time and date, and also allows you to find out the weather in the city you are interested in 📆<br>
+The site has its own music player<br>
+It is possible to change the background image, for this you can select the API in the settings<br>
+Implemented translation of the site into Russian
+#### Technology stack:<br>
+HTML, CSS, JavaScript
 
 
 
