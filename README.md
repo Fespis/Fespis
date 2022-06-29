@@ -24,15 +24,20 @@
 
 ### 1. [Temper](https://react-project-management-system-team7.netlify.app/) (Team Project Management App)<br>
 #### Description:<br>
-This is an application for creating and completing tasks in a team.<br> 
-Any member of the team can create, delete, modify, move tasks, and other members will see it.<br>
+This is an application for creating and completing tasks in a team<br> 
+Any member of the team can create, delete, modify, move tasks, and other members will see it<br>
 The application was created in a team with two other cool developers 😊<br>
-Personally, I've been creating Board route, adding drag and drop, adding modal windows, and adding a global search.
+Personally, I've been creating Board route, adding drag and drop, adding modal windows, and adding a global search
 #### Technology stack:<br>  
 React, React Query, Redux Toolkit, TypeScript, Material-UI
 
 ### 2. [Christmas-task](https://christmas-rsschool-fespis.netlify.app/) (Christmas Game)
-Technology stack: HTML, CSS, TypeScript, WebPack
+#### Description:<br>
+This application is made under the atmosphere of Christmas<br> 
+Implemented functionality for searching, filtering, sorting and dragging Christmas toys
+#### Technology stack:<br>
+HTML, CSS, TypeScript, WebPack
+
 ### 3. [Art-Quiz](https://art-quiz-rsschool-fespis.netlify.app/) (Famous Paintings Quiz)
 Technology stack: HTML, CSS, JavaScript, WebPack
 ### 4. [Momentum](https://momentum-rsschool-fespis.netlify.app/) (Site For Tracking The Weather In Any City )
