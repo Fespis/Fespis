@@ -25,7 +25,7 @@
 ### 1. [Temper](https://react-project-management-system-team7.netlify.app/) (Team Project Management App)<br>
 #### Description:<br>
 This is an application for creating and completing tasks in a team<br> 
-Any member of the team can create, delete, modify, move tasks, and other members will see it<br>
+Any member of the team can create, delete, modify, move tasks, and other members of team will see it<br>
 The application was created in a team with two other cool developers 😊<br>
 Personally, I've been creating Board route, adding drag and drop, adding modal windows, and adding a global search
 #### Technology stack:<br>  
