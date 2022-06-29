@@ -23,7 +23,12 @@
 ## My projects:
 
 ### 1. [Temper](https://react-project-management-system-team7.netlify.app/) (Team Project Management App)<br>
-Technology stack: React, React Query, Redux Toolkit, TypeScript, Material-UI
+#### Description:<br>
+This is an application for creating and completing tasks in a team.<br> 
+Any member of the team can create, delete, modify, move tasks, and other members will see it.
+#### Technology stack:<br>  
+React, React Query, Redux Toolkit, TypeScript, Material-UI
+
 ### 2. [Christmas-task](https://christmas-rsschool-fespis.netlify.app/) (Christmas Game)
 Technology stack: HTML, CSS, TypeScript, WebPack
 ### 3. [Art-Quiz](https://art-quiz-rsschool-fespis.netlify.app/) (Famous Paintings Quiz)
