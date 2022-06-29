@@ -58,9 +58,9 @@ HTML, CSS, JavaScript
 
 
 ## My achievements:
-[Has successfully completed the rolling scopes school react 2022 q1](https://app.rs.school/certificate/tfgptznh)<br>
-[Has successfully completed the rolling scopes school javascript/front-end 2021q3](https://app.rs.school/certificate/88ldzozi)<br>
-[<img align="left" alt="Codewars" width="300px" src="https://www.codewars.com/users/Fespis/badges/large"/>][Codewars]
+[Has successfully completed the rolling scopes school REACT 2022 q1](https://app.rs.school/certificate/tfgptznh)<br>
+[Has successfully completed the rolling scopes school JAVASCRIPT/FRONT-END 2021q3](https://app.rs.school/certificate/88ldzozi)<br>
+[<img align="left" alt="Codewars" width="300px" src="https://www.codewars.com/users/Fespis/badges/large"/>][Codewars]<br>
 
 
 
