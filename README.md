@@ -1,4 +1,4 @@
-# Hello👋 My name is Nikita, I'am a beginner front-end developer!
+# Hello👋, I'am a beginner front-end developer!
 
 
 
@@ -18,7 +18,7 @@
 ## My projects:
 
 ### 1. [Temper](https://react-project-management-system-team7.netlify.app/) (Team Project Management App)<br>
-   ### Technology stack:
+#### Technology stack:
        
 ### 2. [Christmas-task](https://christmas-rsschool-fespis.netlify.app/) (Christmas Game)
 ### 3. [Art-Quiz](https://art-quiz-rsschool-fespis.netlify.app/) (Famous Paintings Quiz)
