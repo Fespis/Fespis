@@ -68,7 +68,7 @@ HTML, CSS, JavaScript
 
 [<img align="left" alt="Telegram" width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png"/>][telegram]
 [<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/512/145/145813.png"/>][vk]
-[<img align="left" alt="LinkedIn" width="26px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1656355974~hmac=63fd3e915f2f602779129a16715eaea6"/>][linkedin]
+[<img align="left" alt="LinkedIn" width="26px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png"/>][linkedin]
 
 
 [telegram]: https://t.me/Fespis
