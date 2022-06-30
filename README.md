@@ -66,9 +66,9 @@ HTML, CSS, JavaScript
 
 ## You can contact me:
 
-[<img align="left" alt="Telegram" width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png"/>][telegram]
-[<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/512/145/145813.png"/>][vk]
-[<img align="left" alt="LinkedIn" width="26px" src="https://img.icons8.com/fluency/344/linkedin.png"/>][linkedin]
+[<img align="left" alt="Telegram" width="36px" height="36px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png"/>][telegram]
+[<img align="left" alt="VK" width="36px" height="36px" src="https://cdn-icons-png.flaticon.com/512/145/145813.png"/>][vk]
+[<img align="left" alt="LinkedIn" width="36px" height="36px" src="https://img.icons8.com/fluency/344/linkedin.png"/>][linkedin]
 
 
 [telegram]: https://t.me/Fespis
