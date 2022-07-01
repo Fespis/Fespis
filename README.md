@@ -15,7 +15,7 @@
 ![JS](https://img.shields.io/badge/-JS-000?style=for-the-badge&logo=JavaScript)
 ![TS](https://img.shields.io/badge/-TS-000?style=for-the-badge&logo=TypeScript)
 ![REACT](https://img.shields.io/badge/-REACT-000?style=for-the-badge&logo=React)
-![REACT](https://img.shields.io/badge/-REACT-000?style=for-the-badge&logo=Redux Toolkit)
+![REACT](https://img.shields.io/badge/-REACT-000?style=for-the-badge&logo=Toolkit)
 ![GIT](https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=Git)
 ![Visual_Studio](https://img.shields.io/badge/-Visual_Studio_Code-000?style=for-the-badge&logo=VisualStudioCode&logoColor=6a78ff)
 
