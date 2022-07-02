@@ -46,7 +46,7 @@ You can view the history of your correct and incorrect answers after completing 
 #### Technology stack:<br>
 HTML, CSS, JavaScript, WebPack
 
-### 4. [Momentum](https://momentum-rsschool-fespis.netlify.app/) (Site For Tracking The Weather In Any City )
+### 4. [Momentum](https://momentum-rsschool-fespis.netlify.app/) (Site For Tracking The Weather In Any City)
 #### Description:<br>
 This is a site that tracks the current time and date, and also allows you to find out the weather in the city you are interested in 📆<br>
 The site has its own music player<br>
