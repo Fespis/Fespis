@@ -36,7 +36,7 @@ React, React Query, Redux Toolkit, TypeScript, Material-UI
 This application is made under the atmosphere of Christmas 🎄<br> 
 Implemented functionality for searching, filtering, sorting and dragging Christmas toys
 #### Technology stack:<br>
-HTML, CSS, TypeScript, WebPack
+HTML, CSS, TypeScript
 
 ### 3. [Art-Quiz](https://art-quiz-rsschool-fespis.netlify.app/) (Famous Paintings Quiz)
 #### Description:<br>
@@ -44,7 +44,7 @@ This is a quiz in which you need to guess the author of various paintings<br>
 The game has settings where you can set the parameters of your quiz<br>
 You can view the history of your correct and incorrect answers after completing one of the quiz
 #### Technology stack:<br>
-HTML, CSS, JavaScript, WebPack
+HTML, CSS, JavaScript
 
 ### 4. [Momentum](https://momentum-rsschool-fespis.netlify.app/) (Site For Tracking The Weather In Any City)
 #### Description:<br>
