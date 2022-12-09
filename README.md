@@ -22,7 +22,13 @@
 
 ## My projects:
 
-### 1. [Temper](https://react-project-management-system-team7.netlify.app/) (Team Project Management App)<br>
+### 1. [Fine-shop](https://my-fine-shop-fespis.netlify.app/) (Shop)<br>
+#### Description:<br>
+I tried to study library Mantine and this is what came out of it 😄
+#### Technology stack:<br>  
+React, Mantine
+
+### 2. [Temper](https://react-project-management-system-team7.netlify.app/) (Team Project Management App)<br>
 #### Description:<br>
 This is an application for creating and completing tasks in a team<br> 
 Any member of the team can create, delete, modify, move tasks, and other members of team will see it<br>
@@ -31,14 +37,14 @@ Personally, I've been creating Board route, adding drag and drop, adding modal w
 #### Technology stack:<br>  
 React, React Query, Redux Toolkit, TypeScript, Material-UI
 
-### 2. [Christmas-task](https://christmas-rsschool-fespis.netlify.app/) (Christmas Game)
+### 3. [Christmas-task](https://christmas-rsschool-fespis.netlify.app/) (Christmas Game)
 #### Description:<br>
 This application is made under the atmosphere of Christmas 🎄<br> 
 Implemented functionality for searching, filtering, sorting and dragging Christmas toys
 #### Technology stack:<br>
 HTML, CSS, TypeScript
 
-### 3. [Art-Quiz](https://art-quiz-rsschool-fespis.netlify.app/) (Famous Paintings Quiz)
+### 4. [Art-Quiz](https://art-quiz-rsschool-fespis.netlify.app/) (Famous Paintings Quiz)
 #### Description:<br>
 This is a quiz in which you need to guess the author of various paintings<br>
 The game has settings where you can set the parameters of your quiz<br>
@@ -46,7 +52,7 @@ You can view the history of your correct and incorrect answers after completing 
 #### Technology stack:<br>
 HTML, CSS, JavaScript
 
-### 4. [Momentum](https://momentum-rsschool-fespis.netlify.app/) (Site For Tracking The Weather In Any City)
+### 5. [Momentum](https://momentum-rsschool-fespis.netlify.app/) (Site For Tracking The Weather In Any City)
 #### Description:<br>
 This is a site that tracks the current time and date, and also allows you to find out the weather in the city you are interested in 📆<br>
 The site has its own music player<br>
